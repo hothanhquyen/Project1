@@ -42,7 +42,10 @@ public class Distance extends AppCompatActivity {
         bttsentdata = (Button)findViewById(R.id.buttonsent);
 
 
-
+/**
+ * Github
+ *
+ * */
 
         //lấy intent gọi Activity này
         Intent callerIntent=getIntent();
